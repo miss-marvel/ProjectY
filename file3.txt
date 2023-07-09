@@ -1,1 +1,3 @@
-File 3 of devlop branch in main
+Modified File 3 of Feature 1 sub-branch 
+within develop of ProjectY
+main -> develop -> Feature 1
